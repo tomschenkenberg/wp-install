@@ -1,5 +1,5 @@
 {
-    "name": "leoloso/wp-install",
+    "name": "tomschenkenberg/wp-install",
     "type": "project",
     "description": "Quickly install WordPress through Composer and WP-CLI",
     "keywords": [
